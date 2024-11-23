@@ -9,3 +9,4 @@ Developed a resume screening application that allows users to upload their resum
 - **Resume Upload**: Users can easily upload their resumes for processing.
 - **Automated Classification**: The application categorizes resumes using a KNN classifier.
 - **Job Profile Suggestions**: Based on classification results, the app recommends the best job profiles tailored to the user’s qualifications and experience.
+- **FrontEnd:** Created Frontend using Streamlit so that user can access easily.
